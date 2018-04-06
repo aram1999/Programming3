@@ -1,0 +1,32 @@
+#walls0{
+	position: absolute;
+    top: 819px;
+    left: 445px;
+    background-color: rgba(255, 0, 0, 0);;
+    width: 772px;
+    height: 50px;
+}
+#walls1{
+	    position: absolute;
+    top: 67px;
+    left: 397px;
+    background-color: rgba(255, 0, 0, 0);
+    width: 50px;
+    height: 772px;
+}
+#walls2{
+	position: absolute;
+    top: 16px;
+    left: 445px;
+    background-color: rgba(255, 0, 0, 0);
+    width: 772px;
+    height: 50px;
+}
+#walls3{
+	position: absolute;
+    top: 67px;
+    left: 1217px;
+    background-color: rgba(255, 0, 0, 0);
+    width: 50px;
+    height: 751px;
+}
